@@ -1,4 +1,4 @@
-Русская раскладка для клавиатур, обозначаемых как Spanish (Latin American Colemak).
+Русская раскладка для клавиатур, обозначаемых как Spanish (Latin American).
 Основана на Russian (Brazil, phonetic)
 Для XKB.
 

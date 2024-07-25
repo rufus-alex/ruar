@@ -1320,7 +1320,7 @@
       <configItem>
         <name>ruar</name>
         <shortDescription>ruar</shortDescription>
-        <description>Russian (Latin America, Colemac)</description>
+        <description>Russian (Latin America)</description>
         <countryList><iso3166Id>RU</iso3166Id></countryList>
         <languageList><iso639Id>rus</iso639Id></languageList>
       </configItem>
